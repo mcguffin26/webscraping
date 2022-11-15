@@ -17,7 +17,7 @@ tables = soup.findAll('table')
 
 finals_table = tables[1]
 
-print(finals_table)
+#print(finals_table)
 
 all_rows = finals_table.findAll('tr')
 
