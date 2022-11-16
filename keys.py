@@ -1,3 +1,7 @@
-accountSID = 'ACa868c11cdd99a570e1dee9876488d331'
+accountSID = '***********************************'
 
-authToken = '2a2c0b8e8d80a4e70f2cab62de650593'
+authToken = '***********************************'
+
+#so i pushed this to my github with my actual authToken in here & got an email from Twilio immediately
+#saying that my token was publicly available lol, so I got rid of the info here but the text notifications
+#did work for me! 
